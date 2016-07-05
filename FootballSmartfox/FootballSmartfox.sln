@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{5ADA903A-AC2E-1570-92BC-8EFA782B0B7B}") = "FootballSmartfox", "Assembly-CSharp-firstpass.csproj", "{EAED7F48-DDB0-A0DA-3C8C-80270296DE85}"
+EndProject
+Project("{5ADA903A-AC2E-1570-92BC-8EFA782B0B7B}") = "FootballSmartfox", "Assembly-CSharp.csproj", "{3F428759-F5B6-08C4-251F-8D407E82BE38}"
+EndProject
+Project("{5ADA903A-AC2E-1570-92BC-8EFA782B0B7B}") = "FootballSmartfox", "Assembly-CSharp-Editor.csproj", "{5C86CED0-D428-AC8C-D931-31E0A81E7BDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAED7F48-DDB0-A0DA-3C8C-80270296DE85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAED7F48-DDB0-A0DA-3C8C-80270296DE85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAED7F48-DDB0-A0DA-3C8C-80270296DE85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAED7F48-DDB0-A0DA-3C8C-80270296DE85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F428759-F5B6-08C4-251F-8D407E82BE38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F428759-F5B6-08C4-251F-8D407E82BE38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F428759-F5B6-08C4-251F-8D407E82BE38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F428759-F5B6-08C4-251F-8D407E82BE38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C86CED0-D428-AC8C-D931-31E0A81E7BDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C86CED0-D428-AC8C-D931-31E0A81E7BDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C86CED0-D428-AC8C-D931-31E0A81E7BDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C86CED0-D428-AC8C-D931-31E0A81E7BDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
